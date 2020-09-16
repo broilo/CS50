@@ -5,7 +5,7 @@
 This reposiroty contains my notes and solutions to each problem proposed in class.
 
  ## [Week 0](https://cs50.harvard.edu/x/2020/weeks/0/)
- * Problem Set 0 &rarr Scratch
+ * Problem Set 0 → Scratch
     * [problem-set-0-final.sb3](./pset0/problem-set-0-final.sb3)
  
  ## [Week 1](https://cs50.harvard.edu/x/2020/weeks/1/)
