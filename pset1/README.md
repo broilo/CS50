@@ -4,7 +4,7 @@ For this problem set, you’ll use CS50 IDE, a cloud-based programming environme
 
 ## [Submit Hello](https://cs50.harvard.edu/x/2020/psets/1/hello/)
 
-## Submit one of version of Mario's pyramid:
+## Submit one version of Mario's pyramid:
 
 * [this version](https://cs50.harvard.edu/x/2020/psets/1/mario/less/) of Mario if feeling less comfortable
 * [this version](https://cs50.harvard.edu/x/2020/psets/1/mario/more/) of Mario if feeling more comfortable
