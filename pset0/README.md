@@ -1,4 +1,4 @@
-# Scratch
+# [Scratch](https://cs50.harvard.edu/x/2020/psets/0/scratch/)
 
 It’s time to choose your own adventure! Your assignment, quite simply, is to implement in Scratch any project of your choice, be it an interactive story, game, animation, or anything else, subject only to the following requirements:
 
