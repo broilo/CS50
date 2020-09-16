@@ -1,6 +1,6 @@
 # Mario (version: less) Infos
 
-[For full isntruction](https://cs50.harvard.edu/x/2020/psets/1/mario/less/#:~:text=$%20./marioHeight:%20-1Height:%200Height:%2042Height:%2050Height:%204%20%20%20#%20%20##%20#######)
+[For full instruction](https://cs50.harvard.edu/x/2020/psets/1/mario/less/#:~:text=$%20./marioHeight:%20-1Height:%200Height:%2042Height:%2050Height:%204%20%20%20#%20%20##%20#######)
 
 ## Exercise:
 
