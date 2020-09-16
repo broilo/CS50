@@ -11,5 +11,7 @@ This reposiroty contains my notes and solutions to each problem proposed in clas
  ## [Week 1](https://cs50.harvard.edu/x/2020/weeks/1/)
  * Problem Set 1 → C
     * [Hello](./pset1/hello/)
+    * [Mario less](./pset1/mario/less)
+    * [Mario more]()
  
  ## [Week 2](https://cs50.harvard.edu/x/2020/weeks/2/)
