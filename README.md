@@ -1,4 +1,4 @@
-# CS50's Introduction to Computer Science - HarvardX
+# CS50's Introduction to Computer Science - HarvardX, Fall 2020
 
 **Course followed on** [edX](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
